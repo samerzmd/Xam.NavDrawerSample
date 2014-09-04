@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\nav\nav\bin\Debug\nav.dll
+Z:\Nav\Xam.NavDrawer\Sample\NavDrawer\bin\Debug\com.refractored.monodroidtoolkit.dll
+Z:\Nav\Xam.NavDrawer\Sample\NavDrawer\bin\Debug\DK.Ostebaronen.Droid.ViewPagerIndicator.dll
+Z:\Nav\Xam.NavDrawer\Sample\NavDrawer\bin\Debug\NavDrawer.dll
+Z:\Nav\Xam.NavDrawer\Sample\NavDrawer\bin\Debug\Xamarin.Android.Support.v4.dll
